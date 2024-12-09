@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chabubakaraziz
-- 👀 I’m interested in ...
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Science with ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [https://linkedin.com/in/abubakaraxiz]
