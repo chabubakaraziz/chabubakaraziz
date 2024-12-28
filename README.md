@@ -3,7 +3,7 @@ chabubakaraziz/chabubakaraziz is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi, I’m **@chabubakaraziz**  
+# 👋 Hi, I’m **Ch Abu Bakar Aziz**  
 🔍 **Exploring Data Science & Machine Learning**  
 
 ---
