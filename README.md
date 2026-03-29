@@ -16,7 +16,7 @@ chabubakaraziz/chabubakaraziz is a ✨ special ✨ repository because its `READM
 - 🤝 Open to collaboration on **AI, ML, and data-driven projects**.  
 
 🌐 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/abubakaraxiz)
+LinkedIn: [M. Abu Bakr Aziz](https://linkedin.com/in/abubakaraxiz)
 
 ---
 
