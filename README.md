@@ -20,11 +20,39 @@ chabubakaraziz/chabubakaraziz is a ✨ special ✨ repository because its `READM
 
 ---
 
-## 🧠 **What I Work With**  
-- **Languages:** Python  
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **AI/ML:** Supervised & Unsupervised Learning, Model Building, Data Preprocessing  
-- **Other Skills:** Data Analysis, Problem Solving, Business Understanding  
+## 🧠 **Technical Skills**
+
+### 🤖 AI / Machine Learning  
+- Machine Learning (Supervised & Unsupervised)  
+- Data Preprocessing & Feature Engineering  
+- Model Evaluation & Performance Benchmarking  
+
+### 👁️ Computer Vision  
+- Image Preprocessing  
+- Basic Object Detection  
+- Visual Pattern Recognition  
+- OpenCV  
+
+### 💻 Programming & Development  
+- Python, Bash, PowerShell  
+- HTML, CSS, JavaScript  
+- REST API Integration  
+
+### 🗄️ Databases  
+- MySQL, PostgreSQL  
+- SQL (Query Optimization, Tuning, Backup)  
+
+### 🛠️ Tools & Collaboration  
+- Git, Jira  
+- Power BI, Tableau  
+- MS Office Suite, Google Workspace  
+
+### 🧩 Soft Skills  
+- Communication  
+- Analytical Thinking  
+- Problem-Solving  
+- Research & Documentation  
+- Time Management  
 
 ---
 
